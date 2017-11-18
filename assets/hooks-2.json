@@ -389,6 +389,7 @@
         ] },
         { "class_name": "aalh", "method_name": "d", "parameter_types": [ "aeph" ], "actions": [
             { "name": "return_boolean", "value": true }
-        ] } 
-    ]
+            ] }
+        ]
+    }
 }
