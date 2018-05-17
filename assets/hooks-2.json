@@ -654,7 +654,7 @@
             ] },
             { "class_name": "aeai", "method_name": "d", "parameter_types": [ "aifj" ], "actions": [
                 { "name": "return_boolean", "value": true }
-            ] }   
+            ]    
         ]
     }
 }
