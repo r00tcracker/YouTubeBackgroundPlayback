@@ -699,18 +699,7 @@
             { "class_name": "aeio", "method_name": "d", "parameter_types": [ "aioe" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }     
-                 ],
-        "132054": [
-            { "class_name": "adff", "method_name": "d", "parameter_types": [], "actions": [
-                { "name": "set_field_boolean_before_method", "field_name": "d.h", "value": true }
-            ] },
-            { "class_name": "daq", "method_name": "f", "parameter_types": [], "actions": [
-                { "name": "return_string", "value": "on" }
-            ] },
-            { "class_name": "aeio", "method_name": "d", "parameter_types": [ "aioe" ], "actions": [
-                { "name": "return_boolean", "value": true }
-            ] }   
-                 ],
+       ],
         "132254": [
             { "class_name": "adko", "method_name": "d", "parameter_types": [], "actions": [
                 { "name": "set_field_boolean_before_method", "field_name": "d.h", "value": true }
@@ -720,7 +709,18 @@
             ] },
             { "class_name": "aeoj", "method_name": "d", "parameter_types": [ "aiug" ], "actions": [
                 { "name": "return_boolean", "value": true }
-            ] }   
+            ] }
+        ],
+        "132358": [
+            { "class_name": "adoj", "method_name": "d", "parameter_types": [], "actions": [
+                { "name": "set_field_boolean_before_method", "field_name": "d.h", "value": true }
+            ] },
+            { "class_name": "dcf", "method_name": "f", "parameter_types": [], "actions": [
+                { "name": "return_string", "value": "on" }
+            ] },
+            { "class_name": "aesm", "method_name": "d", "parameter_types": [ "aiyn" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
     }
 }
